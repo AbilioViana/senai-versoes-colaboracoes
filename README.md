@@ -1,3 +1,9 @@
 # senai-versoes-colaboracoes
+
 Tarefa de versionamento
-Readme de exeplo
+
+Readme de exemplo
+
+Lembrei do comando: git commit
+
+
