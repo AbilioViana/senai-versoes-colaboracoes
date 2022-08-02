@@ -8,3 +8,6 @@ Lembrei do comando: git commit
 
 Criadas duas novas branchs.
 
+Praticando na primeira branch
+
+
