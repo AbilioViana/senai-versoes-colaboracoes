@@ -1,0 +1,47 @@
+[33mcommit 7b703dfc25bd06e2015d7eaf47bc9c2ab94c4ced[m[33m ([m[1;36mHEAD -> [m[1;32mtarefa/minha-segunda-branch[m[33m, [m[1;32mtarefa/minha-primeira-branch[m[33m)[m
+Author: AbilioViana <abilio.viana@gmail.com>
+Date:   Tue Jul 26 13:42:43 2022 -0300
+
+    adicionando o comando git commit
+
+[33mcommit 81309b49ff3122da79e6a5af4c0fdb9f9836388f[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: AbilioViana <109997486+AbilioViana@users.noreply.github.com>
+Date:   Tue Jul 26 13:21:54 2022 -0300
+
+    Create README.md
+
+[33mcommit e06663ce817d9bd8503417ac26813c969a9208fe[m
+Author: AbilioViana <abilio.viana@gmail.com>
+Date:   Tue Jul 26 13:22:56 2022 -0300
+
+    adicionado gitignore
+
+[33mcommit f052583ebf1c11ba125cbe1248d6373989d27e80[m
+Author: AbilioViana <abilio.viana@gmail.com>
+Date:   Tue Jul 26 11:45:38 2022 -0300
+
+    segunda alteração
+
+[33mcommit 4e4c53722c6ddbe7bbcb5a56bc4bed211fa669ca[m
+Author: AbilioViana <abilio.viana@gmail.com>
+Date:   Tue Jul 26 11:40:15 2022 -0300
+
+    meu segundo commit
+
+[33mcommit 577f9ab938d1432fe8f67649201ebdc13e1425f8[m
+Author: AbilioViana <abilio.viana@gmail.com>
+Date:   Tue Jul 26 11:34:27 2022 -0300
+
+    Ateração de arquivo
+
+[33mcommit 2d16f1f1ab4e39b08ee043228266999a193eff18[m
+Author: AbilioViana <abilio.viana@gmail.com>
+Date:   Tue Jul 26 11:24:00 2022 -0300
+
+    alteracao de arquivo
+
+[33mcommit e25e356062603be6ba39aa0b6b42f4cd9da6c53c[m
+Author: AbilioViana <abilio.viana@gmail.com>
+Date:   Tue Jul 26 10:35:07 2022 -0300
+
+    meu primeiro commid
